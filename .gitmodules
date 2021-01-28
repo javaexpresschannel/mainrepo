@@ -1,0 +1,3 @@
+[submodule "submodulerepo"]
+	path = submodulerepo
+	url = https://github.com/javaexpresschannel/submodulerepo.git
